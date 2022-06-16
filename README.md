@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NFT gated digital goods marketplace
+- 🔭 I’m currently working on NFT digital goods marketplace
 - 🌎 I’m currently living in San Francisco
 - 🌱 I’m currently learning advanced Defi
 - 👯 I’m looking to collaborate on web3 projects
