@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NFT digital goods marketplace
-- 🌎 I’m currently living in San Francisco
+- 🌎 I’m currently living in NYC as part of the web3 cohort of HackHouse
 - 🌱 I’m currently learning advanced Defi
 - 👯 I’m looking to collaborate on web3 projects
 - 🤔 I’m looking for help with building businesses
 - 💬 Ask me about how to learn programming
 - 📫 How to reach me: twitter.com/konrad_gnat
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs
+- ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Ken Kelley, Buckminster Fuller
 
 [![kon-rad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-rad&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
