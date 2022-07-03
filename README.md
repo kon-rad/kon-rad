@@ -26,6 +26,10 @@
 
 [YouTube - personal vlogs](https://www.youtube.com/channel/UCfPanjIDA2y3TuZasqYO-Ag/videos)
 
+[email konradmgnat@gmail.com](mailto:konradmgnat@gmail.com)
+
+[telegram: @nestedarray](https://t.me/nestedarray)
+
 [![kon-rad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-rad&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
