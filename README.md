@@ -10,6 +10,22 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Ken Kelley, Buckminster Fuller
 
+### Follow me here:
+
+[website](https://konradgnat.com)
+
+[instagram](https://instagram.com/konradgnat)
+
+[twitter](https://twitter.com/konrad_gnat)
+
+[linkedin](https://linkedin.com/in/konrad-gnat)
+
+[medium](https://medium.com/@konradmgnat)
+
+[YouTube - drone films](https://www.youtube.com/channel/UCUIFdez2IItVFaDTJQyPywg/videos)
+
+[YouTube - personal vlogs](https://www.youtube.com/channel/UCfPanjIDA2y3TuZasqYO-Ag/videos)
+
 [![kon-rad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-rad&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
