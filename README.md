@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on NFT digital goods marketplace
 - 🌎 I’m currently living in NYC as part of the web3 cohort of HackHouse
-- 🌱 I’m currently learning advanced Defi
 - 👯 I’m looking to collaborate on web3 projects
 - 🤔 I’m looking for help with building businesses
 - 💬 Ask me about how to learn programming
