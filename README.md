@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NFT digital goods marketplace
-- 🌎 I’m currently living in Bedstuy, Brooklyn, NYC as part of the web3 cohort of RHouse
+- 🔭 I’m currently working on contributing to DAOs, and soon to be joining Newcon a web3 video startup as founding web3 engineer.
+- 🌎 I’m currently living in a rural area near Chicago.
 - 👯 I’m looking to collaborate on web3 projects
 - 🤔 I’m looking for help with building businesses
 - 💬 Ask me about how to learn programming
