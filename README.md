@@ -25,8 +25,6 @@
 
 [YouTube - drone films](https://www.youtube.com/channel/UCUIFdez2IItVFaDTJQyPywg/videos)
 
-[YouTube - personal vlogs](https://www.youtube.com/channel/UCfPanjIDA2y3TuZasqYO-Ag/videos)
-
 [email konradmgnat@gmail.com](mailto:konradmgnat@gmail.com)
 
 [telegram: @nestedarray](https://t.me/nestedarray)
