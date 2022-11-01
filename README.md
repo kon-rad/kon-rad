@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on contributing to DAOs, and soon to be joining Newcon a web3 video startup as founding web3 engineer.
-- 🌎 I’m currently living in a rural area near Chicago.
-- 👯 I’m looking to collaborate on web3 projects
-- 🤔 I’m looking for help with building businesses
-- 💬 Ask me about how to learn programming
 - 📫 How to reach me: twitter.com/konrad_gnat
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Ken Kelley, Buckminster Fuller
