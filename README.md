@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: twitter.com/konrad_gnat
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Ken Kelley, Buckminster Fuller
+- ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Kevin Kelley, Buckminster Fuller
 
 [what i'm listening to](https://open.spotify.com/playlist/1fuW83lvB2Hp0YJpT4iUgX?si=c6c6310af751478c)
 
