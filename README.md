@@ -18,6 +18,8 @@
 
 [medium](https://medium.com/@konradmgnat)
 
+[YouTube - vlogs and hackathon demos](https://www.youtube.com/channel/UCfPanjIDA2y3TuZasqYO-Ag)
+
 [YouTube - drone films](https://www.youtube.com/channel/UCUIFdez2IItVFaDTJQyPywg/videos)
 
 [email konradmgnat@gmail.com](mailto:konradmgnat@gmail.com)
