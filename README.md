@@ -14,9 +14,13 @@
 
 [twitter](https://twitter.com/konrad_gnat)
 
+[substack](https://0xmakereth.substack.com/)
+
 [linkedin](https://linkedin.com/in/konrad-gnat)
 
 [medium](https://medium.com/@konradmgnat)
+
+[YouTube - Coding Tutorials](https://www.youtube.com/@KonradsCodingTutorials)
 
 [YouTube - vlogs and hackathon demos](https://www.youtube.com/channel/UCfPanjIDA2y3TuZasqYO-Ag)
 
