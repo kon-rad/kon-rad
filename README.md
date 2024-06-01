@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: twitter.com/konrad_gnat
+- 📫 How to reach me: twitter.com/konrad_gnat or KonradMGnat@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Kevin Kelley, Buckminster Fuller
 
