@@ -2,6 +2,9 @@
 
 - 📫 How to reach me: twitter.com/konrad_gnat or KonradMGnat@gmail.com
 - 😄 Pronouns: He/Him
+- Location: Ho Chi Minh City, Vietnam
+- Mission: Build online businesses on the bleeding edge of technology that make the world a better place.
+- Goal: $1 mil ARR
 - ⚡ Fun fact: My hero's are: Alan Watts, Da Vinci, Steve Jobs, Kevin Kelley, Buckminster Fuller
 
 ### My Startups:
