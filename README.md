@@ -9,9 +9,6 @@
 
 ### My Startups:
 
-[High Frequency Highway](https://highfrequencyhw.com)
-CTO & Co-founder
-Peaceful sounds, frequencies and bineural beats for focus, relaxation and healing. Mobile app on iOS and Android. AI journaling, affirmations and frequency generator.
 
 [LuminaLog.com](https://luminalog.com)
 An AI journal for self-development. Features speech to text and an AI companion to give you personalized feedback, insights and advice.
