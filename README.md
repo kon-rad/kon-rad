@@ -22,7 +22,7 @@ AI agent for generating accurate and up-to-date SEO optimized blogs.
 [OfflineLLM](https://apps.apple.com/us/app/offlinellm/id6478590762)
 An AI chatbot running locally on your Vision Pro.
 
-[AiDreamRunner](https://apps.apple.com/us/app/aidreamrunner42/id6478180706)
+[AIDreamRunner](https://apps.apple.com/us/app/aidreamrunner42/id6478180706)
 Vision Pro app will generate any world you imagine using AI to create 360 equilateral images.
 
 
